@@ -13,8 +13,8 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
     locales: {
         '/': {
             lang: 'zh-CN',
-            title: "网站名",
-            description: '网站介绍',
+            title: "细品桥妆",
+            description: '细品桥妆',
         }
     },
     // base: '/',

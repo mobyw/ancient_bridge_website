@@ -1,8 +1,8 @@
 ---
 home: true
 # heroImage: /img/web.png
-heroText: 网站名
-tagline: 网站介绍
+heroText: 细品桥妆
+# tagline: 网站介绍
 actionText: 立刻查看 →
 actionLink: /bridge/
 bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
