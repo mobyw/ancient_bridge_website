@@ -24,4 +24,4 @@ postList: none
 
 鼠标停留地图标记处可预览桥梁信息，点击标记可打开对应界面。可使用鼠标左键及滚轮拖动与缩放。
 
-<iframe src="/map.html" width="100%"></iframe>
+<iframe src="/map.html" width="100%" height="600"></iframe>
