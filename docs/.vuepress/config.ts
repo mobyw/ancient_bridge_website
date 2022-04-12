@@ -88,7 +88,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         footer: {
             createYear: 2022, // 博客创建年份
             copyrightInfo:
-                'copyright', // 博客版权信息，支持a标签或换行标签</br>
+                'SRTP蜀地古桥组', // 博客版权信息，支持a标签或换行标签</br>
         },
 
         // 自定义hmtl(广告)模块
