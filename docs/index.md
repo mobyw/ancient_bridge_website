@@ -1,7 +1,7 @@
 ---
 home: true
 # heroImage: /img/web.png
-heroText: 细品桥妆
+heroText: 细 品 桥 妆
 # tagline: 网站介绍
 actionText: 立刻查看 →
 actionLink: /bridge/
